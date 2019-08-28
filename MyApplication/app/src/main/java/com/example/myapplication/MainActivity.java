@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String mygit =  "https://codingblocks.com/classroom-courses/machine-learning-with-deep-learning.html";
+                String mygit =  "https://github.com";
                 Uri Webadd = Uri.parse(mygit);
                 Intent ADD  = new Intent(Intent.ACTION_VIEW , Webadd);
                 if(ADD.resolveActivity(getPackageManager())!=null){

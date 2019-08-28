@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UsernamePassword</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>99rs</item>
+        <item>15</item>
+        <item>45</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Fresh and juicy</item>
+        <item>Fresh and juicy</item>
+        <item>Fresh and juicy</item>
+    </string-array>
+</resources>
+
